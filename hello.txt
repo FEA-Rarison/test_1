@@ -8,6 +8,7 @@ hello word!
 hello word!
 hello 
 hello 
+ 你好，github
 hello 
 hello 
 hello 
